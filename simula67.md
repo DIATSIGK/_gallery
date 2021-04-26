@@ -1,5 +1,5 @@
 ---
-author: DIATSIGK
+author: epidrome
 title: Simula67
 year: 1967
 image_url: /images/simula.png
